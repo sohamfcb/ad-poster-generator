@@ -19,7 +19,7 @@ Ensure you have the following installed:
 ### Setup
 1. **Clone the repository**
    ```bash
-   git clone <repo-url>
+   git clone https://www.github.com/sohamfcb/ad-poster-generator
    cd ad_poster_generator
    ```
 
