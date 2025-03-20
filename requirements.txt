@@ -1,0 +1,8 @@
+huggingface_hub
+torch
+pymysql
+streamlit
+pandas
+numpy
+python-dotenv
+pywhatkit
